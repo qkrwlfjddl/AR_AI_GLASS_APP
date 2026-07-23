@@ -8,9 +8,11 @@
 ARCore를 활용해 3D 안경 모델을 가상으로 착용해볼 수 있는 모바일 애플리케이션입니다.
 
 ![22+(1)+(1)](https://github.com/user-attachments/assets/f17eaf32-6883-4142-abed-e61bc0f7cd4a)
+
+### 시연 및 설명영상 
 https://youtu.be/xjKYHz245ak?si=AAJgPp6UoDQudpdj
 
-
+---------
 ## 주요 기능
 
 | 기능 | 설명 |
@@ -21,7 +23,7 @@ https://youtu.be/xjKYHz245ak?si=AAJgPp6UoDQudpdj
 | 실물 안경 사진 분류 | 실제 안경 사진을 기반으로 안경 종류와 특징 분류 |
 | 3D 가상 시착 | ARCore를 이용해 사용자의 얼굴에 3D 안경 모델 시착 |
 
-
+----------
 ## 추천 시스템 구조
 
 ```mermaid
