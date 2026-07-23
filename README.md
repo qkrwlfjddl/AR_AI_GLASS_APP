@@ -8,6 +8,7 @@
 ARCore를 활용해 3D 안경 모델을 가상으로 착용해볼 수 있는 모바일 애플리케이션입니다.
 
 ![22+(1)+(1)](https://github.com/user-attachments/assets/f17eaf32-6883-4142-abed-e61bc0f7cd4a)
+https://youtu.be/xjKYHz245ak?si=AAJgPp6UoDQudpdj
 
 
 ## 주요 기능
