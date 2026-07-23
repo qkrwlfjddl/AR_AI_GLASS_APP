@@ -1,13 +1,10 @@
 
 # 안경 추천 및 가상 시착 APP
+![22+(1)+(1)](https://github.com/user-attachments/assets/f17eaf32-6883-4142-abed-e61bc0f7cd4a)
 
 얼굴형 분석, 사용자 선호도, 실물 안경 이미지 분류 모델을 기반으로 
-
 사용자에게 어울리는 안경을 추천하고, 
-
 ARCore를 활용해 3D 안경 모델을 가상으로 착용해볼 수 있는 모바일 애플리케이션입니다.
-
-![22+(1)+(1)](https://github.com/user-attachments/assets/f17eaf32-6883-4142-abed-e61bc0f7cd4a)
 
 ### 시연 및 설명영상 
 https://youtu.be/xjKYHz245ak?si=AAJgPp6UoDQudpdj
