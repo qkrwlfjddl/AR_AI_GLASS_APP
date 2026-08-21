@@ -1,57 +1,52 @@
-# AI 기반 안경 추천 & AR 가상 시착 앱
+<div align="center">
 
-![22+(1)+(1)](https://github.com/user-attachments/assets/f17eaf32-6883-4142-abed-e61bc0f7cd4a)
+# AI 기반 안경 추천 & AR 가상 시착
 
-얼굴형 분석, 사용자 선호도, 실물 안경 이미지 분류 모델을 기반으로  
-사용자에게 어울리는 안경을 추천하고,  
-**ARCore를 활용해 3D 안경 모델을 가상으로 착용해볼 수 있는 모바일 애플리케이션**입니다.
+얼굴형과 사용자 선호도를 분석해  
+나에게 어울리는 안경을 추천하고, AR로 가상 시착하는 모바일 앱
 
-### 🎥 시연 및 설명영상
-https://youtu.be/xjKYHz245ak?si=AAJgPp6UoDQudpdj
+<br>
 
----
+[![Demo](https://img.shields.io/badge/🎥%20Demo-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/xjKYHz245ak?si=AAJgPp6UoDQudpdj)
 
-## 주요 기능
+<br><br>
 
-| 기능 | 설명 |
-|---|---|
-| 얼굴형 판단 | 사용자의 얼굴 이미지를 분석하여 얼굴형 분류 |
-| 얼굴형 기반 안경 추천 | 얼굴형에 어울리는 안경테 형태 추천 |
-| 사용자 선호도 기반 추천 | 스타일·색상·디자인 선호도를 반영한 개인화 추천 |
-| 실물 안경 사진 분류 | 실제 안경 사진을 기반으로 안경 종류와 특징 분류 |
-| 3D 가상 시착 | ARCore를 이용한 3D 안경 모델 가상 시착 |
+<img src="https://github.com/user-attachments/assets/f17eaf32-6883-4142-abed-e61bc0f7cd4a" width="700">
+
+</div>
 
 ---
 
-## 🧩 추천 시스템 구조
+## ✨ Features
 
-```mermaid
-flowchart TD
-    A["사용자 얼굴 이미지"] --> B["얼굴형 판단 모델"]
-    B --> C["얼굴형 기반 추천"]
+- **Face Shape Analysis** — 얼굴형을 분석해 어울리는 안경 추천
+- **Personalized Recommendation** — 스타일·색상·디자인 선호도를 반영한 추천
+- **Glasses Classification** — 실물 안경 이미지를 분석해 종류와 특징 분류
+- **AR Virtual Try-On** — ARCore 기반 3D 안경 가상 시착
 
-    D["사용자 선호도 입력"] --> E["선호도 추천 알고리즘"]
-    E --> F["개인화 추천"]
-
-    G["실물 안경 사진"] --> H["안경 분류 모델"]
-    H --> I["안경 유형 분류"]
-
-    C --> J["최종 안경 추천"]
-    F --> J
-    I --> J
-    J --> K["ARCore 3D 가상 시착"]
-```
+---
 
 ## 👤 My Contribution
 
+얼굴형 분류부터 추천 시스템, 안경 이미지 분류 및  
+**AR 기반 가상 시착 기능까지 전체 추천 시스템 구현에 참여했습니다.**
+
 - 얼굴형 분류 모델 구현
-- 사용자 선호도 기반 안경 추천
+- 사용자 선호도 기반 추천 로직 구현
 - 실물 안경 이미지 분류
 - 추천 시스템 통합
-- ARCore 기반 3D 안경 가상 시착 구현
+- ARCore 기반 3D 가상 시착 구현
 
 ---
 
 ## 🛠️ Tech Stack
 
-`TensorFlow` `Computer Vision` `Android` `ARCore` `Recommendation System`
+<div align="center">
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/ARCore-4285F4?style=flat&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Recommendation%20System-6A5ACD?style=flat">
+
+</div>
