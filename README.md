@@ -8,8 +8,7 @@
 <br>
 
 [![Demo](https://img.shields.io/badge/🎥%20Demo-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/xjKYHz245ak?si=AAJgPp6UoDQudpdj)
-
-<br><br>
+###### 설명 영상 
 
 ![22+(1)+(1)](https://github.com/user-attachments/assets/f17eaf32-6883-4142-abed-e61bc0f7cd4a)
 
