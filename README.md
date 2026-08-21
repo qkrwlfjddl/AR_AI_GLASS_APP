@@ -5,8 +5,6 @@
 얼굴형과 사용자 선호도를 분석해  
 나에게 어울리는 안경을 추천하고, AR로 가상 시착하는 모바일 앱
 
-<br>
-
 ###### 설명 영상 
 
 [![Demo](https://img.shields.io/badge/🎥%20Demo-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/xjKYHz245ak?si=AAJgPp6UoDQudpdj)
